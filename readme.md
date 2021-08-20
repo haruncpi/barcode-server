@@ -9,7 +9,7 @@ You can use it for
 - Any PC software for input barcode data.
 
 
-Watch: [Video Tutorial](https://www.youtube.com/watch?v=0b8YFzFiS28)
+Watch: [Video Tutorial](https://www.youtube.com/watch?v=fF6XbvfqmME)
 
 
 Server App (v2.0.0)            |  Mobile App
