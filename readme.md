@@ -22,6 +22,6 @@ Server App (v2.0.0)            |  Mobile App
 
 Program            |  Use command |  Comment
 :------------------:|:------------:|:----------
-Google Spreadsheet | `Barcode Delay:100ms Enter` |
+Google Spreadsheet | `Barcode Delay:100ms Down` |
 MS Excel | `Barcode Enter` |
 
