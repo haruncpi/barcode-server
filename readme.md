@@ -12,8 +12,7 @@ App in PlayStore: [Barcode Client Server](https://play.google.com/store/apps/det
 Watch: [Video Tutorial](https://www.youtube.com/watch?v=0b8YFzFiS28)
 
 
-Server version: v2.0.0
+Server App             |  Mobile App
+:-------------------------:|:-------------------------:
+![](barcode-server.png) |  ![](app-preview.png)
 
-![Image description](barcode-server.png)
-
-![Image description](app.png)
