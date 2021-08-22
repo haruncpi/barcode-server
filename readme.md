@@ -12,9 +12,9 @@ You can use it for
 Watch: [Video Tutorial](https://youtu.be/l2qS5Zagm-I)
 
 
-Server App (v2.0.0)            |  Mobile App
+Server App (v2.0.1)            |  Mobile App
 :-------------------------:|:-------------------------:
-[Download](https://github.com/haruncpi/barcode-server/releases/download/v2.0.0/BarcodeServer-2.0.0.zip)| [Download from PlayStore](https://play.google.com/store/apps/details?id=com.learn24bd.barcode)
+[Download](https://github.com/haruncpi/barcode-server/releases/download/v2.0.1/BarcodeServer-2.0.1.zip)| [Download from PlayStore](https://play.google.com/store/apps/details?id=com.learn24bd.barcode)
 ![](barcode-server.png) |  ![](app-preview.png)
 
 
