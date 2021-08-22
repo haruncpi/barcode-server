@@ -14,7 +14,7 @@ Watch: [Video Tutorial](https://youtu.be/l2qS5Zagm-I)
 
 Server App (v2.0.1)            |  Mobile App
 :-------------------------:|:-------------------------:
-[Download](https://github.com/haruncpi/barcode-server/releases/download/v2.0.1/BarcodeServer-2.0.1.zip)| [Download from PlayStore](https://play.google.com/store/apps/details?id=com.learn24bd.barcode)
+for Windows [Download exe](https://github.com/haruncpi/barcode-server/releases/download/v2.0.1/BarcodeServer-2.0.1.zip) <br> for Linux [Download deb](https://github.com/haruncpi/barcode-server/releases/download/v2.0.1/barcodeserver_2.0.1_amd64.deb)| [Download from PlayStore](https://play.google.com/store/apps/details?id=com.learn24bd.barcode)
 ![](barcode-server.png) |  ![](app-preview.png)
 
 
