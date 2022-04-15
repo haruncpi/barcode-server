@@ -14,9 +14,20 @@ Watch: [Video Tutorial](https://youtu.be/l2qS5Zagm-I)
 
 Server App (v2.0.1)            |  Mobile App
 :-------------------------:|:-------------------------:
-for Windows [Download exe](https://github.com/haruncpi/barcode-server/releases/download/v2.0.1/BarcodeServer-2.0.1.zip) <br> for Linux [Download deb](https://github.com/haruncpi/barcode-server/releases/download/v2.0.1/barcodeserver_2.0.1_amd64.deb) MacOs - Coming soon| [Download from PlayStore](https://play.google.com/store/apps/details?id=com.learn24bd.barcode)
+for Windows [Download exe](https://github.com/haruncpi/barcode-server/releases/download/v2.0.1/BarcodeServer-2.0.1.zip) <br> for Linux [Download deb](https://github.com/haruncpi/barcode-server/releases/download/v2.0.1/barcodeserver_2.0.1_amd64.deb) <br> Mac - [Intel version](https://github.com/haruncpi/barcode-server/releases/download/v2.0.1/barcodeserver-2.0.1-mac-intel.zip) <br> Mac - [M1 version](https://github.com/haruncpi/barcode-server/releases/download/v2.0.1/barcodeserver-2.0.1-mac-m1.zip) <br> [Follow Guide for MacOs](#important-for-mac-os)| [Download from PlayStore](https://play.google.com/store/apps/details?id=com.learn24bd.barcode)
 ![](barcode-server.png) |  ![](app-preview.png)
 
+
+### Important for Mac OS
+Run these command after install the app into `Applications` folder.
+
+```
+sudo xattr -rd com.apple.quarantine ~/Applications/barcodeserver
+```
+
+```
+sudo codesign --force --deep --sign - ~/Applications/barcodeserver
+```
 
 ### Command Snippet
 
