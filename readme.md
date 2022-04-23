@@ -22,11 +22,11 @@ for Windows [Download exe](https://github.com/haruncpi/barcode-server/releases/d
 Run these command after install the app into `Applications` folder.
 
 ```
-sudo xattr -rd com.apple.quarantine ~/Applications/barcodeserver
+sudo xattr -rd com.apple.quarantine Applications/barcodeserver
 ```
 
 ```
-sudo codesign --force --deep --sign - ~/Applications/barcodeserver
+sudo codesign --force --deep --sign - Applications/barcodeserver
 ```
 
 ### Command Snippet
